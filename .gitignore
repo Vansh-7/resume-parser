@@ -13,4 +13,4 @@ wheels/
 .env
 
 # Ignore local testing PDFs/Docx files
-data/resumes/
+data
